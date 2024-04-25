@@ -1,6 +1,7 @@
 Flask 
 requests
 colorama
+PyPDF2
 PdfReader
 Gunicorn
 
