@@ -131,6 +131,3 @@ def validate_form(name, job, file):
         return "Please upload a valid PDF file."
     
     return None
-
-if __name__ == "__main__":
-    app.run(debug=True)
