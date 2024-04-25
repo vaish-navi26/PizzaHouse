@@ -1,2 +1,15 @@
 Flask 
+requests
+json
+sys
+colorama
+sleep
+PdfReader
+BytesIO
+re
+render_template
+request
+redirect
+url_for
 Gunicorn
+
